@@ -1,4 +1,4 @@
-# [not mine]
+# .[Not Mine]
 i just fork the original to change the name click here https://github.com/bogachenko/fuckfuckadblock
 its the original 
 
