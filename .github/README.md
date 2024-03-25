@@ -1,3 +1,8 @@
+# [not mine]
+i just fork the original to change the name click here https://github.com/bogachenko/fuckfuckadblock
+its the original 
+
+
 # [Fuck Fuckadblock](https://github.com/bogachenko/fuckfuckadblock/wiki/About-Fuck-Fuckadblock)
 
 Filters for blocking mining, pop-ups and anti-adblock bypass.
